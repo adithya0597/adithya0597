@@ -139,9 +139,7 @@ AI Engineer with **5+ years** building enterprise automation platforms, knowledg
     <td colspan="2" valign="top">
       <h3 align="center">2nd Brain</h3>
       <p align="center">
-        <a href="https://github.com/adithya0597/2nd-brain">
-          <img src="https://img.shields.io/badge/Code-View_on_GitHub-0066CC?style=for-the-badge&logo=github&logoColor=white" />
-        </a>&#8287;
+        <img src="https://img.shields.io/badge/Status-Private_Repo-30363D?style=for-the-badge" />&#8287;
         <img src="https://img.shields.io/badge/Status-Active_Development-14B8A6?style=for-the-badge" />
       </p>
       <p align="center"><strong>AI-powered knowledge management system</strong> that auto-organizes thoughts so your real brain can just think. Drop notes into a frictionless inbox like Slack or Obsidian, and the AI handles all sorting — detecting patterns and pushing daily summaries.</p>
@@ -226,6 +224,16 @@ Built real-time streaming ETL pipelines with Azure Event Hubs and Databricks. Au
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=adithya0597&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6&sideLabels=8B949E&dates=8B949E" />
+</p>
+
+<br/>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+    <img alt="3D Contribution Calendar" src="./profile-3d-contrib/profile-night-green.svg" width="100%" />
+  </picture>
 </p>
 
 <br/>
