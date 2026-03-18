@@ -15,7 +15,7 @@
   <a href="mailto:adithyamalaraju@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&#8287;
-  <img src="https://komarev.com/ghpvc/?username=adithya0597&color=14B8A6&style=for-the-badge&label=Profile+Views" />
+  <picture><img src="https://komarev.com/ghpvc/?username=adithya0597&color=14B8A6&style=for-the-badge&label=Profile+Views" /></picture>
 </p>
 
 <br/>
@@ -78,7 +78,8 @@ AI Engineer with **5+ years** building enterprise automation platforms, knowledg
     <td width="50%" valign="top">
       <h3 align="center">Whale Market News Agent</h3>
       <p align="center">
-        <picture><img src="https://img.shields.io/badge/Status-Private_Repo-30363D?style=for-the-badge" /></picture>
+        <picture><img src="https://img.shields.io/badge/Status-Private_Repo-30363D?style=for-the-badge" /></picture>&#8287;
+        <picture><img src="https://img.shields.io/badge/Status-Active_Development-14B8A6?style=for-the-badge" /></picture>
       </p>
       <p align="center"><strong>Market intelligence agent</strong> ingesting SEC regulatory filings and news, classifying events across 12+ taxonomy dimensions, and generating structured investment signals for 1000+ equities.</p>
       <p align="center">
