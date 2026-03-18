@@ -43,22 +43,22 @@ AI Engineer with **5+ years** building enterprise automation platforms, knowledg
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,bash,docker,kubernetes,aws,azure,gcp,kafka,fastapi,git&theme=dark&perline=10" />
+  <picture><img src="https://skillicons.dev/icons?i=py,bash,docker,kubernetes,aws,azure,gcp,kafka,fastapi,git&theme=dark&perline=10" /></picture>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Neo4j-018BFF?style=flat-square&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSPy-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3144?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Langfuse-4B32C3?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Milvus-00A4EF?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+  <picture><img src="https://img.shields.io/badge/Neo4j-018BFF?style=flat-square&logo=neo4j&logoColor=white" /></picture>
+  <picture><img src="https://img.shields.io/badge/DSPy-3776AB?style=flat-square&logo=python&logoColor=white" /></picture>
+  <picture><img src="https://img.shields.io/badge/LangChain-1C3144?style=flat-square&logo=langchain&logoColor=white" /></picture>
+  <picture><img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /></picture>
+  <picture><img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" /></picture>
+  <picture><img src="https://img.shields.io/badge/Langfuse-4B32C3?style=flat-square&logoColor=white" /></picture>
+  <picture><img src="https://img.shields.io/badge/Milvus-00A4EF?style=flat-square&logoColor=white" /></picture>
+  <picture><img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" /></picture>
+  <picture><img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" /></picture>
+  <picture><img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" /></picture>
+  <picture><img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" /></picture>
+  <picture><img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" /></picture>
 </p>
 
 <br/>
@@ -208,16 +208,16 @@ Built real-time streaming ETL pipelines with Azure Event Hubs and Databricks. Au
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adithya0597&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" />
+  <picture><img src="https://github-profile-trophy.vercel.app/?username=adithya0597&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" /></picture>
 </p>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adithya0597&show_icons=true&theme=github_dark&bg_color=0D1117&hide_border=true&icon_color=14B8A6&title_color=58A6FF&text_color=8B949E&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya0597&layout=compact&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=58A6FF&text_color=8B949E&langs_count=8" />
+  <picture><img width="49%" src="https://github-readme-stats.vercel.app/api?username=adithya0597&show_icons=true&theme=github_dark&bg_color=0D1117&hide_border=true&icon_color=14B8A6&title_color=58A6FF&text_color=8B949E&count_private=true" /></picture>
+  <picture><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya0597&layout=compact&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=58A6FF&text_color=8B949E&langs_count=8" /></picture>
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=adithya0597&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6&sideLabels=8B949E&dates=8B949E" />
+  <picture><img src="https://streak-stats.demolab.com?user=adithya0597&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6&sideLabels=8B949E&dates=8B949E" /></picture>
 </p>
 
 <br/>
@@ -232,7 +232,7 @@ Built real-time streaming ETL pipelines with Azure Event Hubs and Databricks. Au
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adithya0597&theme=react-dark&bg_color=0D1117&color=14B8A6&line=0066CC&point=14B8A6&area=true&area_color=0066CC&hide_border=true" />
+<picture><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adithya0597&theme=react-dark&bg_color=0D1117&color=14B8A6&line=0066CC&point=14B8A6&area=true&area_color=0066CC&hide_border=true" /></picture>
 
 <br/>
 
