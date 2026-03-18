@@ -27,15 +27,15 @@ AI Engineer with **5+ years** building enterprise automation platforms, knowledg
 > *Deterministic foundations with AI augmentation — reliability over cleverness.*
 
 <p align="center">
-  <img src="https://img.shields.io/badge/M.S._Computer_Information_Systems-Colorado_State_University-0066CC?style=for-the-badge" />&#8287;
-  <img src="https://img.shields.io/badge/Google_Cloud-Professional_Data_Engineer-14B8A6?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <picture><img src="https://img.shields.io/badge/M.S._Computer_Information_Systems-Colorado_State_University-0066CC?style=for-the-badge" /></picture>&#8287;
+  <picture><img src="https://img.shields.io/badge/Google_Cloud-Professional_Data_Engineer-14B8A6?style=for-the-badge&logo=googlecloud&logoColor=white" /></picture>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/95%25_Automation-26K+_Orders-00C853?style=flat-square" />&#8287;
-  <img src="https://img.shields.io/badge/90%25_Auto--Translation-27_Microservices-2196F3?style=flat-square" />&#8287;
-  <img src="https://img.shields.io/badge/100%25_SQL_Accuracy-Zero_LLM_in_Prod-9C27B0?style=flat-square" />&#8287;
-  <img src="https://img.shields.io/badge/5+_Years-Data_&_AI_Engineering-FF6F00?style=flat-square" />
+  <picture><img src="https://img.shields.io/badge/95%25_Automation-26K+_Orders-00C853?style=flat-square" /></picture>&#8287;
+  <picture><img src="https://img.shields.io/badge/90%25_Auto--Translation-27_Microservices-2196F3?style=flat-square" /></picture>&#8287;
+  <picture><img src="https://img.shields.io/badge/100%25_SQL_Accuracy-Zero_LLM_in_Prod-9C27B0?style=flat-square" /></picture>&#8287;
+  <picture><img src="https://img.shields.io/badge/5+_Years-Data_&_AI_Engineering-FF6F00?style=flat-square" /></picture>
 </p>
 
 <br/>
@@ -68,6 +68,60 @@ AI Engineer with **5+ years** building enterprise automation platforms, knowledg
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">2nd Brain</h3>
+      <p align="center">
+        <picture><img src="https://img.shields.io/badge/Status-Private_Repo-30363D?style=for-the-badge" /></picture>&#8287;
+        <picture><img src="https://img.shields.io/badge/Status-Active_Development-14B8A6?style=for-the-badge" /></picture>
+      </p>
+      <p align="center"><strong>AI-powered knowledge management system</strong> that auto-organizes thoughts so your real brain can just think. Drop notes into a frictionless inbox like Slack or Obsidian, and the AI handles all sorting — detecting patterns and pushing daily summaries.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Whale Market News Agent</h3>
+      <p align="center">
+        <picture><img src="https://img.shields.io/badge/Status-Private_Repo-30363D?style=for-the-badge" /></picture>
+      </p>
+      <p align="center"><strong>Market intelligence agent</strong> ingesting SEC regulatory filings and news, classifying events across 12+ taxonomy dimensions, and generating structured investment signals for 1000+ equities.</p>
+      <p align="center">
+        <picture><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></picture>
+        <picture><img src="https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white" /></picture>
+        <picture><img src="https://img.shields.io/badge/DSPy-3776AB?style=flat-square&logo=python&logoColor=white" /></picture>
+        <picture><img src="https://img.shields.io/badge/LangGraph-1C3144?style=flat-square&logo=langchain&logoColor=white" /></picture>
+        <picture><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /></picture>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">LinkedIn Outreach</h3>
+      <p align="center">
+        <picture><img src="https://img.shields.io/badge/Status-Private_Repo-30363D?style=for-the-badge" /></picture>&#8287;
+        <picture><img src="https://img.shields.io/badge/Status-Active_Development-14B8A6?style=for-the-badge" /></picture>
+      </p>
+      <p align="center"><strong>AI-powered LinkedIn outreach agent</strong> that generates hyper-personalized connection requests and messages by analyzing prospect profiles, mutual interests, and engagement history to maximize response rates.</p>
+      <p align="center">
+        <picture><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></picture>
+        <picture><img src="https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white" /></picture>
+        <picture><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /></picture>
+        <picture><img src="https://img.shields.io/badge/LinkedIn_API-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></picture>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">AI Product Council</h3>
+      <p align="center">
+        <picture><img src="https://img.shields.io/badge/Status-Private_Repo-30363D?style=for-the-badge" /></picture>&#8287;
+        <picture><img src="https://img.shields.io/badge/Status-Active_Development-14B8A6?style=for-the-badge" /></picture>
+      </p>
+      <p align="center"><strong>Multi-agent product advisory system</strong> that simulates a panel of specialized AI advisors — strategist, engineer, designer, analyst — to evaluate product ideas, surface blind spots, and generate actionable roadmaps.</p>
+      <p align="center">
+        <picture><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></picture>
+        <picture><img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /></picture>
+        <picture><img src="https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white" /></picture>
+        <picture><img src="https://img.shields.io/badge/LangGraph-1C3144?style=flat-square&logo=langchain&logoColor=white" /></picture>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">JobPilot</h3>
       <p align="center">
         <a href="https://github.com/adithya0597/JobPilot">
@@ -76,11 +130,11 @@ AI Engineer with **5+ years** building enterprise automation platforms, knowledg
       </p>
       <p align="center"><strong>Multi-agent AI career platform</strong> with tiered autonomy (L0–L3), two-stage LLM scoring pipeline, preference learning, and Celery-based async task routing.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <picture><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></picture>
+        <picture><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /></picture>
+        <picture><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /></picture>
+        <picture><img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /></picture>
+        <picture><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" /></picture>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -92,29 +146,15 @@ AI Engineer with **5+ years** building enterprise automation platforms, knowledg
       </p>
       <p align="center"><strong>CLI toolkit with 28+ deterministic engineering skills</strong> spanning data profiling, ETL orchestration, ML baselines, and automated schema validation with full test coverage.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
-        <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+        <picture><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></picture>
+        <picture><img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" /></picture>
+        <picture><img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" /></picture>
+        <picture><img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" /></picture>
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Whale Market News Agent</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Private_Repo-30363D?style=for-the-badge" />
-      </p>
-      <p align="center"><strong>Market intelligence agent</strong> ingesting SEC regulatory filings and news, classifying events across 12+ taxonomy dimensions, and generating structured investment signals for 1000+ equities.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white" />
-        <img src="https://img.shields.io/badge/DSPy-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangGraph-1C3144?style=flat-square&logo=langchain&logoColor=white" />
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3 align="center">AI Portfolio</h3>
       <p align="center">
         <a href="https://bala-adithya-malaraju.vercel.app/">
@@ -123,22 +163,12 @@ AI Engineer with **5+ years** building enterprise automation platforms, knowledg
       </p>
       <p align="center"><strong>AI-queryable portfolio website</strong> with GPT-4 chat assistant grounded on resume data, streaming responses, rate limiting, honeypot spam detection, and WCAG accessibility compliance.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+        <picture><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /></picture>
+        <picture><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></picture>
+        <picture><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /></picture>
+        <picture><img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /></picture>
+        <picture><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /></picture>
       </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3 align="center">2nd Brain</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Private_Repo-30363D?style=for-the-badge" />&#8287;
-        <img src="https://img.shields.io/badge/Status-Active_Development-14B8A6?style=for-the-badge" />
-      </p>
-      <p align="center"><strong>AI-powered knowledge management system</strong> that auto-organizes thoughts so your real brain can just think. Drop notes into a frictionless inbox like Slack or Obsidian, and the AI handles all sorting — detecting patterns and pushing daily summaries.</p>
     </td>
   </tr>
 </table>
@@ -161,7 +191,7 @@ AI Engineer with **5+ years** building enterprise automation platforms, knowledg
 
 Architecting enterprise AI platforms combining graph databases, vector search, agentic pipelines, and deterministic code generation for telecom modernization.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Neo4j-018BFF?style=flat-square&logo=neo4j&logoColor=white" /> <img src="https://img.shields.io/badge/DSPy-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Langfuse-4B32C3?style=flat-square" />
+<picture><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></picture> <picture><img src="https://img.shields.io/badge/Neo4j-018BFF?style=flat-square&logo=neo4j&logoColor=white" /></picture> <picture><img src="https://img.shields.io/badge/DSPy-3776AB?style=flat-square" /></picture> <picture><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /></picture> <picture><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /></picture> <picture><img src="https://img.shields.io/badge/Langfuse-4B32C3?style=flat-square" /></picture>
 
 </details>
 
@@ -171,7 +201,7 @@ Architecting enterprise AI platforms combining graph databases, vector search, a
 
 Led on-premises SQL Server to Azure Synapse migration. Architected ETL workflows with ADF and Databricks for healthcare data systems.
 
-<img src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+<picture><img src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /></picture> <picture><img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" /></picture> <picture><img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" /></picture>
 
 </details>
 
@@ -189,7 +219,7 @@ Distributed systems, algorithms, machine learning. Research in AI/ML application
 
 Engineered real-time CDC notification systems, built AWS data lake infrastructure, and deployed containerized data pipelines for healthcare platforms.
 
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" /> <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" /> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<picture><img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" /></picture> <picture><img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" /></picture> <picture><img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" /></picture> <picture><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /></picture>
 
 </details>
 
@@ -199,7 +229,7 @@ Engineered real-time CDC notification systems, built AWS data lake infrastructur
 
 Built real-time streaming ETL pipelines with Azure Event Hubs and Databricks. Automated database migrations for 300+ tables.
 
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+<picture><img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /></picture> <picture><img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" /></picture> <picture><img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" /></picture>
 
 </details>
 
