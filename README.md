@@ -95,7 +95,9 @@ AI Engineer with **5+ years** building enterprise automation platforms, knowledg
     <td width="50%" valign="top">
       <h3 align="center">LinkedIn Outreach</h3>
       <p align="center">
-        <picture><img src="https://img.shields.io/badge/Status-Private_Repo-30363D?style=for-the-badge" /></picture>&#8287;
+        <a href="https://github.com/adithya0597/linkedin-outreach">
+          <img src="https://img.shields.io/badge/Code-View_on_GitHub-0066CC?style=for-the-badge&logo=github&logoColor=white" />
+        </a>&#8287;
         <picture><img src="https://img.shields.io/badge/Status-Active_Development-14B8A6?style=for-the-badge" /></picture>
       </p>
       <p align="center"><strong>AI-powered LinkedIn outreach agent</strong> that generates hyper-personalized connection requests and messages by analyzing prospect profiles, mutual interests, and engagement history to maximize response rates.</p>
