@@ -1,141 +1,230 @@
-<div align="center">
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066CC,50:0088DD,100:14B8A6&height=220&section=header&text=Bala%20Adithya%20Malaraju&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer&descSize=20&descColor=ffffff&descAlignY=55" />
 
-# Bala Adithya Malaraju
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&height=40&lines=Knowledge+Graphs+%7C+LLM+Orchestration+%7C+Graph+RAG;Building+production+AI+platforms+that+ship+results;Deterministic+foundations+with+AI+augmentation" />
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&width=700&height=35&lines=AI+Engineer+%7C+Knowledge+Graphs+%7C+Enterprise+Automation;Building+production+AI+platforms+with+measurable+outcomes)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://www.linkedin.com/in/adithya-malaraju/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&#8287;
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-0066CC?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>&#8287;
+  <a href="mailto:adithyamalaraju@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&#8287;
+  <img src="https://komarev.com/ghpvc/?username=adithya0597&color=14B8A6&style=for-the-badge&label=Profile+Views" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-malaraju/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0066CC?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithyamalaraju@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=adithya0597&color=0066CC&style=for-the-badge&label=Profile+Views)
+<br/>
 
-</div>
+## About Me
 
----
-
-## About
-
-AI Engineer with **5+ years** building enterprise automation platforms, knowledge graph systems, and cloud data pipelines. Currently at **Infinite Computer Solutions**, I architect AI platforms that combine knowledge graphs, LLM orchestration, and deterministic code generation to deliver measurable business outcomes.
-
-My work has delivered **95% automation** for 26,000+ telecom orders, **90% automated code translation** across 27 microservices, and **100% SQL accuracy** with zero LLM calls in production.
+AI Engineer with **5+ years** building enterprise automation platforms, knowledge graph systems, and cloud data pipelines. I architect AI systems where **reliability matters** — combining knowledge graphs, LLM orchestration, and deterministic code generation to deliver measurable business outcomes.
 
 > *Deterministic foundations with AI augmentation — reliability over cleverness.*
 
-🎓 **M.S. Computer Information Systems** — Colorado State University
-📜 **Google Cloud Professional Data Engineer**
+<p align="center">
+  <img src="https://img.shields.io/badge/M.S._Computer_Information_Systems-Colorado_State_University-0066CC?style=for-the-badge" />&#8287;
+  <img src="https://img.shields.io/badge/Google_Cloud-Professional_Data_Engineer-14B8A6?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/95%25_Automation-26K+_Orders-00C853?style=flat-square" />&#8287;
+  <img src="https://img.shields.io/badge/90%25_Auto--Translation-27_Microservices-2196F3?style=flat-square" />&#8287;
+  <img src="https://img.shields.io/badge/100%25_SQL_Accuracy-Zero_LLM_in_Prod-9C27B0?style=flat-square" />&#8287;
+  <img src="https://img.shields.io/badge/5+_Years-Data_&_AI_Engineering-FF6F00?style=flat-square" />
+</p>
 
-## Featured Projects
-
-### Enterprise AI Platforms
-
-> Production systems built at scale for enterprise clients
-
-| Project | Description | Impact |
-|---------|-------------|--------|
-| **Enterprise Work Package Automation** | 3-phase pipeline (Ingest → Compile → Apply) with SHA-256 delta detection, InfluxDB identity management, and GPT-powered change summaries for telecom order processing | `95% less manual work` `26K+ orders` |
-| **OTel Migration Intelligence** | Graph RAG code migration using Neo4j + Milvus + DSPy across 27 microservices in 6+ languages with compiler-in-the-loop validation | `90% auto-translation` `15x speedup` |
-| **COBOL-to-BigQuery Migration** | 138-node Neo4j Abstract Semantic Graph with autonomous IR Discovery Agents, Jinja2 deterministic code generation, and tree-sitter AST parsing | `100% SQL accuracy` `Zero LLM in prod` |
-| **Azure Synapse Migration** | On-premises SQL Server → Azure Synapse via Polybase with phased validation gates, ODS layer design, and cross-functional deployment standardization | `99.9% data integrity` `30% faster queries` |
-| **Real-time CDC & Data Lake** | CDC notification system for 300+ tables using AWS Lambda/SQS with multi-layer S3 data lake (raw/processed/curated) and Snowflake data marts | `300+ tables` `20% faster retrieval` |
-
-### Open Source & Personal
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**JobPilot**](https://github.com/adithya0597/JobPilot) | Multi-agent AI career platform with tiered autonomy (L0–L3), two-stage LLM scoring pipeline, and Celery-based async task routing | Python, FastAPI, React, OpenAI, Claude API, Supabase |
-| [**Skillpack**](https://github.com/adithya0597/Daily-Work-Automation) | CLI toolkit with 28+ deterministic engineering skills for data profiling, ETL orchestration, ML baselines, and schema validation | Python, pandas, pandera, pytest, dbt |
-| **Whale Market News Agent** | Market intelligence agent classifying SEC filings across 12+ taxonomy dimensions with real-time alerting for 1000+ equities | Python, Claude API, DSPy, LangGraph, Streamlit | 🚧 Active Development |
-| **AI Portfolio** | AI-queryable portfolio with GPT-4 chat assistant grounded on resume data, streaming responses, rate limiting, and WCAG compliance | Next.js, TypeScript, Tailwind CSS, OpenAI, Vercel |🚧 Active Development |
-| [**2nd Brain**]| AI-powered knowledge management that auto-organizes thoughts, detects patterns, and pushes daily summaries | 🚧 Active Development |
-
-### Technical Writing
-
-📝 [**Why I Stopped Letting LLMs Build My Knowledge Graphs**](https://www.linkedin.com/pulse/why-i-stopped-letting-llms-build-my-knowledge-graphs-what-malaraju-ycxbc/) — Why deterministic approaches outperform LLM-generated knowledge graphs in production systems
-
----
+<br/>
 
 ## Tech Stack
 
-**Languages**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,bash,docker,kubernetes,aws,azure,gcp,kafka,fastapi,git&theme=dark&perline=10" />
+  </a>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Cypher](https://img.shields.io/badge/Cypher-018BFF?style=for-the-badge&logo=neo4j&logoColor=white)
-![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Neo4j-018BFF?style=flat-square&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSPy-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3144?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Langfuse-4B32C3?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Milvus-00A4EF?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+</p>
 
-**AI & LLM Orchestration**
+<br/>
 
-![DSPy](https://img.shields.io/badge/DSPy-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3144?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![Langfuse](https://img.shields.io/badge/Langfuse-4B32C3?style=for-the-badge&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white)
-![Milvus](https://img.shields.io/badge/Milvus-00A4EF?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6F61?style=for-the-badge)
-![Knowledge Graphs](https://img.shields.io/badge/Knowledge_Graphs-14B8A6?style=for-the-badge)
+## Projects
 
-**Data & Cloud**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">JobPilot</h3>
+      <p align="center">
+        <a href="https://github.com/adithya0597/JobPilot">
+          <img src="https://img.shields.io/badge/Code-View_on_GitHub-0066CC?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center"><strong>Multi-agent AI career platform</strong> with tiered autonomy (L0–L3), two-stage LLM scoring pipeline, preference learning, and Celery-based async task routing.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Skillpack</h3>
+      <p align="center">
+        <a href="https://github.com/adithya0597/Daily-Work-Automation">
+          <img src="https://img.shields.io/badge/Code-View_on_GitHub-0066CC?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center"><strong>CLI toolkit with 28+ deterministic engineering skills</strong> spanning data profiling, ETL orchestration, ML baselines, and automated schema validation with full test coverage.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+        <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Whale Market News Agent</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Private_Repo-30363D?style=for-the-badge" />
+      </p>
+      <p align="center"><strong>Market intelligence agent</strong> ingesting SEC regulatory filings and news, classifying events across 12+ taxonomy dimensions, and generating structured investment signals for 1000+ equities.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white" />
+        <img src="https://img.shields.io/badge/DSPy-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangGraph-1C3144?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">AI Portfolio</h3>
+      <p align="center">
+        <a href="#">
+          <img src="https://img.shields.io/badge/Live-View_Portfolio-14B8A6?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+      <p align="center"><strong>AI-queryable portfolio website</strong> with GPT-4 chat assistant grounded on resume data, streaming responses, rate limiting, honeypot spam detection, and WCAG accessibility compliance.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<p align="center">
+  <a href="https://github.com/adithya0597/2nd-brain">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adithya0597&repo=2nd-brain&theme=github_dark&bg_color=0D1117&hide_border=true&icon_color=14B8A6&title_color=58A6FF&text_color=8B949E" />
+  </a>
+</p>
 
-**Frameworks & DevOps**
+### Technical Writing
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/pulse/why-i-stopped-letting-llms-build-my-knowledge-graphs-what-malaraju-ycxbc/">
+    <img src="https://img.shields.io/badge/Why_I_Stopped_Letting_LLMs_Build_My_Knowledge_Graphs-Read_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
----
+<br/>
 
 ## Career Journey
 
-```
-2025 - Present  │  🤖 AI Engineer        @ Infinite Computer Solutions, Irving TX
-                │     Knowledge graphs, LLM orchestration, enterprise automation
-                │
-2024 - 2025     │  📊 Data Engineer       @ IB Technologies, Franklin TN
-                │     Azure Synapse migration, ETL optimization, healthcare data
-                │
-2023 - 2024     │  🎓 M.S. CIS           @ Colorado State University
-                │     Distributed systems, algorithms, machine learning
-                │
-2020 - 2022     │  📊 Data Engineer       @ EPAM Systems, Hyderabad
-                │     Real-time CDC, AWS data lake, Snowflake data marts
-                │
-2019            │  📊 Data Engineer       @ CloudTern Solutions, Hyderabad
-                │     Azure ETL, real-time streaming, DDL automation
-                │
-2019            │  🎓 B.Tech IT           @ JNTU Hyderabad
-```
+<details open>
+<summary><strong>2025 - Present : AI Engineer @ Infinite Computer Solutions, Irving TX</strong></summary>
+<br/>
 
----
+Architecting enterprise AI platforms combining graph databases, vector search, agentic pipelines, and deterministic code generation for telecom modernization.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Neo4j-018BFF?style=flat-square&logo=neo4j&logoColor=white" /> <img src="https://img.shields.io/badge/DSPy-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Langfuse-4B32C3?style=flat-square" />
+
+</details>
+
+<details>
+<summary><strong>2024 - 2025 : Data Engineer @ IB Technologies, Franklin TN</strong></summary>
+<br/>
+
+Led on-premises SQL Server to Azure Synapse migration. Architected ETL workflows with ADF and Databricks for healthcare data systems.
+
+<img src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+
+</details>
+
+<details>
+<summary><strong>2023 - 2024 : M.S. Computer Information Systems @ Colorado State University</strong></summary>
+<br/>
+
+Distributed systems, algorithms, machine learning. Research in AI/ML applications for enterprise systems.
+
+</details>
+
+<details>
+<summary><strong>2020 - 2022 : Data Engineer @ EPAM Systems, Hyderabad</strong></summary>
+<br/>
+
+Engineered real-time CDC notification systems, built AWS data lake infrastructure, and deployed containerized data pipelines for healthcare platforms.
+
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" /> <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" /> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+
+</details>
+
+<details>
+<summary><strong>2019 : Data Engineer @ CloudTern Solutions, Hyderabad</strong></summary>
+<br/>
+
+Built real-time streaming ETL pipelines with Azure Event Hubs and Databricks. Automated database migrations for 300+ tables.
+
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+
+</details>
+
+<br/>
 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adithya0597&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya0597&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adithya0597&show_icons=true&theme=github_dark&bg_color=0D1117&hide_border=true&icon_color=14B8A6&title_color=58A6FF&text_color=8B949E&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya0597&layout=compact&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=58A6FF&text_color=8B949E&langs_count=8" />
 </div>
 
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adithya0597&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6&sideLabels=8B949E&dates=8B949E" />
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=adithya0597&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<br/>
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adithya0597/adithya0597/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adithya0597/adithya0597/output/github-snake.svg" />
+  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/adithya0597/adithya0597/output/github-snake-dark.svg" width="100%" />
+</picture>
 
----
+<br/>
 
 <div align="center">
 
@@ -143,8 +232,16 @@ My work has delivered **95% automation** for 26,000+ telecom orders, **90% autom
 
 Open to **AI Engineering** and **Data Engineering** roles where I can build production AI systems with real business impact.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-malaraju/)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithyamalaraju@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-0066CC?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
+<a href="https://www.linkedin.com/in/adithya-malaraju/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&#8287;
+<a href="mailto:adithyamalaraju@gmail.com">
+  <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&#8287;
+<a href="#">
+  <img src="https://img.shields.io/badge/View_My_Portfolio-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066CC,50:0088DD,100:14B8A6&height=120&section=footer" />
