@@ -2,16 +2,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066CC,50:0088DD,100:14B8A6&height=220&section=header&text=Bala%20Adithya%20Malaraju&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer&descSize=20&descColor=ffffff&descAlignY=55" />
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=800&height=40&lines=Knowledge+Graphs+%7C+LLM+Orchestration+%7C+Graph+RAG;Production+AI+platforms+with+measurable+outcomes;Deterministic+foundations+%2B+AI+augmentation" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=800&height=40&lines=Knowledge+Graphs+%7C+LLM+Orchestration+%7C+Graph+RAG;Production+AI+platforms+with+measurable+outcomes;Deterministic+foundations+%2B+AI+augmentation" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adithya-malaraju/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&#8287;
-  <a href="#">
+  <a href="https://bala-adithya-malaraju.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0066CC?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>&#8287;
   <a href="mailto:adithyamalaraju@gmail.com">
@@ -45,9 +43,7 @@ AI Engineer with **5+ years** building enterprise automation platforms, knowledg
 ## Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,bash,docker,kubernetes,aws,azure,gcp,kafka,fastapi,git&theme=dark&perline=10" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,bash,docker,kubernetes,aws,azure,gcp,kafka,fastapi,git&theme=dark&perline=10" />
 </p>
 
 <p align="center">
@@ -121,7 +117,7 @@ AI Engineer with **5+ years** building enterprise automation platforms, knowledg
     <td width="50%" valign="top">
       <h3 align="center">AI Portfolio</h3>
       <p align="center">
-        <a href="#">
+        <a href="https://bala-adithya-malaraju.vercel.app/">
           <img src="https://img.shields.io/badge/Live-View_Portfolio-14B8A6?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
       </p>
@@ -212,9 +208,7 @@ Built real-time streaming ETL pipelines with Azure Event Hubs and Databricks. Au
 ## GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=adithya0597&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=adithya0597&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" />
 </p>
 
 <div align="center">
@@ -262,7 +256,7 @@ Open to **AI Engineering** and **Data Engineering** roles where I can build prod
 <a href="mailto:adithyamalaraju@gmail.com">
   <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&#8287;
-<a href="#">
+<a href="https://bala-adithya-malaraju.vercel.app/">
   <img src="https://img.shields.io/badge/View_My_Portfolio-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
