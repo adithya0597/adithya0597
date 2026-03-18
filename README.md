@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&height=40&lines=Knowledge+Graphs+%7C+LLM+Orchestration+%7C+Graph+RAG;Building+production+AI+platforms+that+ship+results;Deterministic+foundations+with+AI+augmentation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=800&height=40&lines=Knowledge+Graphs+%7C+LLM+Orchestration+%7C+Graph+RAG;Production+AI+platforms+with+measurable+outcomes;Deterministic+foundations+%2B+AI+augmentation" />
   </a>
 </p>
 
@@ -135,13 +135,19 @@ AI Engineer with **5+ years** building enterprise automation platforms, knowledg
       </p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">2nd Brain</h3>
+      <p align="center">
+        <a href="https://github.com/adithya0597/2nd-brain">
+          <img src="https://img.shields.io/badge/Code-View_on_GitHub-0066CC?style=for-the-badge&logo=github&logoColor=white" />
+        </a>&#8287;
+        <img src="https://img.shields.io/badge/Status-Active_Development-14B8A6?style=for-the-badge" />
+      </p>
+      <p align="center"><strong>AI-powered knowledge management system</strong> that auto-organizes thoughts so your real brain can just think. Drop notes into a frictionless inbox like Slack or Obsidian, and the AI handles all sorting — detecting patterns and pushing daily summaries.</p>
+    </td>
+  </tr>
 </table>
-
-<p align="center">
-  <a href="https://github.com/adithya0597/2nd-brain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adithya0597&repo=2nd-brain&theme=github_dark&bg_color=0D1117&hide_border=true&icon_color=14B8A6&title_color=58A6FF&text_color=8B949E" />
-  </a>
-</p>
 
 ### Technical Writing
 
@@ -207,6 +213,12 @@ Built real-time streaming ETL pipelines with Azure Event Hubs and Databricks. Au
 
 ## GitHub Stats
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=adithya0597&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" />
+  </a>
+</p>
+
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adithya0597&show_icons=true&theme=github_dark&bg_color=0D1117&hide_border=true&icon_color=14B8A6&title_color=58A6FF&text_color=8B949E&count_private=true" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya0597&layout=compact&theme=github_dark&bg_color=0D1117&hide_border=true&title_color=58A6FF&text_color=8B949E&langs_count=8" />
@@ -215,6 +227,10 @@ Built real-time streaming ETL pipelines with Azure Event Hubs and Databricks. Au
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=adithya0597&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6&sideLabels=8B949E&dates=8B949E" />
 </p>
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adithya0597&theme=react-dark&bg_color=0D1117&color=14B8A6&line=0066CC&point=14B8A6&area=true&area_color=0066CC&hide_border=true" />
 
 <br/>
 
