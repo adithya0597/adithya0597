@@ -73,7 +73,15 @@ AI Engineer with **5+ years** building enterprise automation platforms, knowledg
         <picture><img src="https://img.shields.io/badge/Status-Private_Repo-30363D?style=for-the-badge" /></picture>&#8287;
         <picture><img src="https://img.shields.io/badge/Status-Active_Development-14B8A6?style=for-the-badge" /></picture>
       </p>
-      <p align="center"><strong>AI-powered knowledge management system</strong> that auto-organizes thoughts so your real brain can just think. Drop notes into a frictionless inbox like Slack or Obsidian, and the AI handles all sorting — detecting patterns and pushing daily summaries.</p>
+      <p align="center"><strong>AI-powered personal knowledge OS</strong> that captures thoughts via Telegram, auto-classifies across six life dimensions using a hybrid NLP pipeline (keyword, zero-shot, embedding, LLM), and connects them into a searchable knowledge graph. Delivers daily briefings, drift reports, and pattern synthesis.</p>
+      <p align="center">
+        <picture><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></picture>
+        <picture><img src="https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white" /></picture>
+        <picture><img src="https://img.shields.io/badge/Telegram_API-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></picture>
+        <picture><img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" /></picture>
+        <picture><img src="https://img.shields.io/badge/Notion_API-000000?style=flat-square&logo=notion&logoColor=white" /></picture>
+        <picture><img src="https://img.shields.io/badge/sentence--transformers-FF6F00?style=flat-square" /></picture>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Whale Market News Agent</h3>
@@ -114,12 +122,14 @@ AI Engineer with **5+ years** building enterprise automation platforms, knowledg
         <picture><img src="https://img.shields.io/badge/Status-Private_Repo-30363D?style=for-the-badge" /></picture>&#8287;
         <picture><img src="https://img.shields.io/badge/Status-Active_Development-14B8A6?style=for-the-badge" /></picture>
       </p>
-      <p align="center"><strong>Multi-agent product advisory system</strong> that simulates a panel of specialized AI advisors — strategist, engineer, designer, analyst — to evaluate product ideas, surface blind spots, and generate actionable roadmaps.</p>
+      <p align="center"><strong>Multi-agent governance orchestration system</strong> coordinating 20 specialized AI advisory roles across a 60+ agent execution swarm. Implements weighted voting, force-entry safety triggers, sycophancy detection, and confidence calibration through a 5-stage deliberation pipeline.</p>
       <p align="center">
-        <picture><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></picture>
-        <picture><img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /></picture>
-        <picture><img src="https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white" /></picture>
-        <picture><img src="https://img.shields.io/badge/LangGraph-1C3144?style=flat-square&logo=langchain&logoColor=white" /></picture>
+        <picture><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></picture>
+        <picture><img src="https://img.shields.io/badge/Ruflo_v3-FF6F00?style=flat-square" /></picture>
+        <picture><img src="https://img.shields.io/badge/MCP-191919?style=flat-square" /></picture>
+        <picture><img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" /></picture>
+        <picture><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /></picture>
+        <picture><img src="https://img.shields.io/badge/Helm/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /></picture>
       </p>
     </td>
   </tr>
